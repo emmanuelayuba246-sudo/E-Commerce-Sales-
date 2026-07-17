@@ -8,9 +8,7 @@ This project presents an interactive **E-Commerce Sales Dashboard** built in **P
 - Analyze overall sales performance.
 - Monitor key business metrics using KPIs.
 - Identify top-performing products.
-- Evaluate customer purchasing patterns.
 - Examine payment method preferences.
-- Track coupon code usage.
 - Analyze referral sources.
 - Understand order status distribution.
 
