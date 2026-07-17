@@ -40,7 +40,6 @@ This project presents an interactive **E-Commerce Sales Dashboard** built in **P
 ## 🛠 Tools & Technologies
 - **Power BI**
 - **Microsoft Excel**
-- **Power Query**
 - **Data Visualization**
 - **Data Cleaning & Transformation**
 
@@ -60,7 +59,6 @@ The dataset contains transactional e-commerce sales records, including:
 ## 📈 Skills Demonstrated
 - Data Cleaning
 - Data Transformation
-- Data Modeling
 - KPI Development
 - Interactive Dashboard Design
 - Business Intelligence
