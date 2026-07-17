@@ -1,5 +1,6 @@
 
-# 📊 E-Commerce Sales Data Analysis Dashboard
+# 📊 E-Commerce Sales Data Analysis
+![Dashboard](db.PNG)
 
 This project presents an interactive **E-Commerce Sales Dashboard** built in **Power BI** to analyze sales performance, customer behavior, and business operations.
 
@@ -12,8 +13,6 @@ This project presents an interactive **E-Commerce Sales Dashboard** built in **P
 - Track coupon code usage.
 - Analyze referral sources.
 - Understand order status distribution.
-
----
 
 ## 📊 Dashboard Highlights
 
@@ -31,8 +30,6 @@ This project presents an interactive **E-Commerce Sales Dashboard** built in **P
 - Payment Method Distribution
 - Total Revenue by Product
 - Referral Source Analysis
-
----
 
 ## 🔍 Key Insights
 - The business generated **$1.26M** in total revenue from over **1.20K orders**.
@@ -62,8 +59,6 @@ The dataset contains transactional e-commerce sales records, including:
 - Order Status
 - Revenue
 
----
-
 ## 📈 Skills Demonstrated
 - Data Cleaning
 - Data Transformation
@@ -84,4 +79,5 @@ This dashboard helps businesses:
 
 ## 👤 Author
 **Emmanuel Ayuba**
+
 If you found this project useful, consider giving it a star.
